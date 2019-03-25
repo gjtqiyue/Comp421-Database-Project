@@ -5,7 +5,7 @@ import csv
 x = []
 y = []
 
-with open('Downloads/orderByDay.csv','r') as csvfile:
+with open('orderByDay.csv','r') as csvfile:
     plots = csv.reader(csvfile, delimiter=',')
     for row in plots:
         x.append(row[0])
