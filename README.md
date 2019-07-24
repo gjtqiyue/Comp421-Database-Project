@@ -13,5 +13,5 @@ more details in [Sample SQL](./Deliverable_2/p2.sql)
 #### Deliverable 3
 Java implementation and SQL procedure function implementation
 
-more details in [Report](./Deliverable_3/Report.pdf)
+more details in [Report of the project](./Deliverable_3/Report.pdf)
 
