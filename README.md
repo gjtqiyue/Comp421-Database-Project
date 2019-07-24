@@ -1,4 +1,5 @@
-## Comp421_Database_Project_2019W
+## Database for Online Retail Store
+### -- Comp421_Database_Project_2019W
 
 #### Deliverable 1
 Database design and requirement validation
